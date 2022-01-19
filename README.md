@@ -1,6 +1,6 @@
 TypeScript 로 블록체인 만들기.
 
-```javascrpit
+```js
 let a = 10;
 
 ```
